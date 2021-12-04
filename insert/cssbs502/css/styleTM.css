@@ -1,0 +1,54 @@
+.jumbotron {
+  padding-top: 85px;
+  background-color: #87cefa;
+}
+.jumbotron .img-thumbnail {
+  padding: 0.1rem;
+  background-color: #fff;
+  border: 0.2px solid #dee2e6;
+  border-radius: 0.15rem;
+  max-width: 100%;
+  height: auto;
+}
+.data {
+  margin-bottom: 50px;
+  text-indent: 35px;
+}
+span {
+  text-indent: 35px;
+}
+
+#album {
+  background-color: #87cefa;
+}
+
+section {
+  padding-top: 5rem;
+}
+.btn:hover {
+  transform: scale(1.05);
+  transition: 1.3s;
+}
+footer p {
+  padding-top: 8px;
+}
+
+footer a:hover {
+  color: salmon;
+  transition: 1.5s;
+}
+footer img:hover {
+  transform: scale(1.4);
+  transition: 1s;
+}
+footer {
+  background-color: #0d6efd;
+  height: 40px;
+  font-size: 18px;
+}
+footer a {
+  color: white;
+}
+footer img {
+  padding: 0 5px;
+}
