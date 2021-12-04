@@ -14,6 +14,9 @@
   margin-bottom: 50px;
   text-indent: 35px;
 }
+#about {
+  background-color: #fff;
+}
 span {
   text-indent: 35px;
 }
@@ -21,7 +24,9 @@ span {
 #album {
   background-color: #87cefa;
 }
-
+#contact {
+  background-color: #fff;
+}
 section {
   padding-top: 5rem;
 }
